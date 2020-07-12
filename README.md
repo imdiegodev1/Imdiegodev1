@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a data analyst in Derco Colombia: a Chilean company that have the representation of globally recognized brands such as Citroen, Suzuki and Still here in Colombia.
+I’m a data analyst at Derco Colombia: a Chilean company that have the representation of globally recognized brands such as Citroen, Suzuki and Still here in Colombia.
 As a Data analyst I’m focused on market and financial internal data. this data is use to create reports that help the management of the company and the understanding of market behavior.
 
 Here are some ideas to get you started:
