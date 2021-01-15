@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Data Scientist with experience in data wrangling, data visualization and text imne. Goal – oriented, curious and interested in learn and teach with the people around me. I have a bachelors degree in Mechanical Engineer, a technical diploma in big data management and currently I am studying to be program developer and data scientist. 
+Data Scientist with experience in data wrangling, data visualization and text mine. Goal – oriented, curious and interested in learn and teach with the people around me. I have a bachelors degree in Mechanical Engineer, a technical diploma in big data management and currently I am studying to be program developer and data scientist. 
 
 - 🔭 I’m currently working with Teleperformance.
 - 🌱 I’m learning software development and data science at Platzi. 
