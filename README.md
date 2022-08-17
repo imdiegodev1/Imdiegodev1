@@ -1,7 +1,7 @@
 [![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)](https://diego-naranjo.super.site/)
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A Python Developer / Data Scientist based in Colombia</h3>
-(img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif")
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdiegui1&label=Profile%20views&color=0e75b6&style=flat" alt="imdiegui1" /> </p>
 
