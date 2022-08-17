@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdiegui1&label=Profile%20views&color=0e75b6&style=flat" alt="imdiegui1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imdiegui1" target="blank"><img src="https://img.shields.io/twitter/follow/imdiegui1?logo=twitter&style=for-the-badge" alt="@imdiegui1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imdiegui1" target="blank"><img src="https://img.shields.io/twitter/follow/imdiegui1?logo=twitter&style=for-the-badge" alt="imdiegui1" /></a> </p>
 
 - 🔭 I’m currently working on [Simplicita](https://www.simplicita.mx/)
 
@@ -15,21 +15,21 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/imdiegui1](https://github.com/imdiegui1)
+- 👨‍💻 All of my projects are available at [diego-naranjo.super.site/projects](diego-naranjo.super.site/projects)
 
-- 📝 I regularly write articles on [https://diego-naranjo.super.site/blog](https://diego-naranjo.super.site/blog)
+- 📝 I regularly write articles on [diego-naranjo.super.site/blog](diego-naranjo.super.site/blog)
 
 - 💬 Ask me about **Python, Data Science, Web Scrapy or Reporting**
 
 - 📫 How to reach me **hi@imdiegui.com**
 
-- 📄 Know about my experiences [https://diego-naranjo.super.site/](https://diego-naranjo.super.site/)
+- 📄 Know about my experiences [diego-naranjo.super.site/](diego-naranjo.super.site/)
 
 - ⚡ Fun fact **I am an amateur cyclist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@imdiegui1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@imdiegui1" height="30" width="40" /></a>
+<a href="https://twitter.com/imdiegui1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdiegui1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imdiegu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imdiegu" height="30" width="40" /></a>
 <a href="https://instagram.com/@imdiegui1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@imdiegui1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@diegoanr40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@diegoanr40" height="30" width="40" /></a>
