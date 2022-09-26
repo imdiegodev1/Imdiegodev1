@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imdiegui1" target="blank"><img src="https://img.shields.io/twitter/follow/imdiegui1?logo=twitter&style=for-the-badge" alt="imdiegui1" /></a> </p>
 
-- 🔭 I’m currently working on [Simplicita](https://www.simplicita.mx/)
+- 🔭 I’m currently searching for a job oppotunity
 
 - 🌱 I’m currently learning **Cloud computing**
 
