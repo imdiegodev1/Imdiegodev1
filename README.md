@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdiegui1&label=Profile%20views&color=0e75b6&style=flat" alt="imdiegui1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imdiegodev" target="blank"><img src="https://img.shields.io/twitter/follow/imdiegui1?logo=twitter&style=for-the-badge" alt="imdiegui1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imdiegodev" target="blank"><img src="https://img.shields.io/twitter/follow/imdiegui1?logo=twitter&style=for-the-badge" alt="imdiegodev" /></a> </p>
 
 - 🔭 I’m currently searching for a job oppotunity
 
