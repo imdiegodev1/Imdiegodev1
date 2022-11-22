@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [diego-naranjo.super.site/projects](diego-naranjo.super.site/projects)
+- 👨‍💻 All of my projects are available at [imdiego.dev/projects](https://imdiego.dev/projects)
 
-- 📝 I regularly write articles on [diego-naranjo.super.site/blog](diego-naranjo.super.site/blog)
+- 📝 I regularly write articles on [imdiego.dev/blog](https://imdiego.dev/blog)
 
-- 💬 Ask me about **Python, Data Science, Web Scrapy or Reporting**
+- 💬 Ask me about **Python, Back-end, Data Science, Reporting**
 
-- 📫 How to reach me **hi@imdiegui.com**
+- 📫 How to reach me **hi@imdiego.dev**
 
-- 📄 Know about my experiences [diego-naranjo.super.site/](diego-naranjo.super.site/)
+- 📄 Know about my experiences [imdiego.dev/about](https://imdiego.dev/about)
 
 - ⚡ Fun fact **I am an amateur cyclist**
 
