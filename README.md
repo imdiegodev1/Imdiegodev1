@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imdiegodev" target="blank"><img src="https://img.shields.io/twitter/follow/imdiegodev?logo=twitter&style=for-the-badge" alt="imdiegodev" /></a> </p>
 
-- 🔭 I’m currently searching for a job oppotunity
+- 🔭 I’m currently working on a BPO company and as a freelance backend developer
 
 - 🌱 I’m currently learning **Cloud computing**
 
