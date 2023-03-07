@@ -80,12 +80,17 @@
   </p>
 </div>
 <br>
+## 📈My statistics
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdiegodev1&show_icons=true&theme=city_lights)](https://github.com/imdiegodev1/github-readme-stats)|![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdiegodev1&show_icons=true&theme=city_lights)|
+|---|---|
+
 <div>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdiegodev1&show_icons=true&locale=en&layout=compact" alt="imdiegodev1" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imdiegodev1&show_icons=true&locale=en" alt="imdiegodev1" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imdiegodev1&" alt="imdiegodev1" /></p>
 </div>
-<br>
+
+
 <div>
   <h3 align="left">Connect with me:</h3>
   <p align="center">
