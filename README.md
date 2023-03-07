@@ -1,13 +1,11 @@
 [![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)](https://diego-naranjo.super.site/)
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">A Python Developer / Data Scientist based in Colombia</h3>
+<h3 align="center">A Python Developer / Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdiegui1&label=Profile%20views&color=0e75b6&style=flat" alt="imdiegui1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imdiegodev" target="blank"><img src="https://img.shields.io/twitter/follow/imdiegodev?logo=twitter&style=for-the-badge" alt="imdiegodev" /></a> </p>
-
-- 🔭 I’m currently working on a BPO company and as a freelance backend developer
+- 🔭 I’m currently working on a BPO company as Data Engineer and as a freelance Backend Developer
 
 - 🌱 I’m currently learning **Cloud computing**
 
@@ -19,7 +17,7 @@
 
 - 📝 I regularly write articles on [imdiego.dev/blog](https://imdiego.dev/blog)
 
-- 💬 Ask me about **Python, Back-end, Data Science, Reporting**
+- 💬 Ask me about **Python, Back-end and Data Engineering**
 
 - 📫 How to reach me **hi@imdiego.dev**
 
@@ -28,11 +26,10 @@
 - ⚡ Fun fact **I am an amateur cyclist**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/imdiegui1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdiegui1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imdiegu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imdiegu" height="30" width="40" /></a>
 <a href="https://instagram.com/@imdiegui1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@imdiegui1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@diegoanr40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@diegoanr40" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
