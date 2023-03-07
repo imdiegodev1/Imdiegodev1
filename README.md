@@ -26,7 +26,7 @@
 - ⚡ Fun fact **I am an amateur cyclist**
 
 
-<div style="display:flex;">
+<div style="display:inline;">
 <h3 align="left">My Stack:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -47,7 +47,7 @@
 </p>
 </div>
 <br>
-<div style="display:flex;">
+<div style="display:inline;">
   <h3 align="left">I have skills and knowledge with the following tools:</h3>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
