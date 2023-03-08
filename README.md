@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> | <img src="https://img.shields.io/badge/aws-323330?style=for-the-badge&logo=amazon&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/RedHat-323330?style=for-the-badge&logo=redhat&logoColor=E00401"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>|
 
 ## 📈My statistics:
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdiegodev1&show_icons=true&theme=city_lights)](https://github.com/imdiegodev1/github-readme-stats)|![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdiegodev1&show_icons=true&theme=city_lights)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdiegodev1&show_icons=false&theme=city_lights)](https://github.com/imdiegodev1/github-readme-stats)|![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdiegodev1&show_icons=true&theme=city_lights)|
 |---|---|
 
 ## 📞Connect with me:
