@@ -2,7 +2,7 @@
 
 [![MasterHead](https://portfoliodiegodev.s3.amazonaws.com/github-header.png)](https://imdiego.dev/)
 
-🐍 Python Backend Developer and Data Engineer oriented to product creations and details. I have always been interested in technology and innovation. I have 5+ years of experience with data and software development. First, I focused my career in data management and data processing with SQL and Python to finally focus on Software Development using Python, AWS and React. I consider myself self-taught and technologies such as Cloud computing with AWS, Python and ReactI allow me to experiment with different products and teams around the world.
+🐍 Data Engineer and Software Developer oriented to product creations from the back-end and data architecture side. I have always been interested in technology and innovation. I have 5+ years of experience with data and software development. First, I focused my career in data management and data processing with SQL and Python to finally focus on Software Development and Data Engineer using Python and AWS. I consider myself self-taught and technologies such as Cloud computing with AWS, Python and Data allow me to experiment with different products and teams around the world.
 
 - 🔭 I’m currently working on a BPO company as Data Engineer and as a freelance Backend Developer
 
