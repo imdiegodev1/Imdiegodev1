@@ -2,7 +2,7 @@
 
 <!-- [![MasterHead](https://portfoliodiegodev.s3.amazonaws.com/github-header.png)](https://imdiego.dev/) -->
 
-🐍 Data Engineer and Software Developer oriented to product creations from the back-end and data architecture side. I have always been interested in technology and innovation. I have 5+ years of experience with data and software development. First, I focused my career in data management and data processing with SQL and Python to finally focus on Software Development and Data Engineer using Python and AWS. I consider myself self-taught and technologies such as Cloud computing with AWS, Python and Data allow me to experiment with different products and teams around the world.
+🐍 I am a Cloud and Software Developer oriented to product creations and improvement from back-end and data architecture or design side. I have always been interested in technology and innovation. I have 5+ years of experience working for Data Engineering and Data Processing projects. First, I focused my career in data management and data processing with SQL, Power BI and Python. More recently, I have been focused on Data Engineering using Python and AWS Cloud. I consider myself self-taught and technologies such as Cloud computing with AWS, Python and Data allow me to experiment with different products and teams around the world.
 
 - 🔭 I’m currently working on a BPO company as Data Engineer and as a freelance Backend Developer
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **hi@imdiego.dev**
 
-- 📄 Know about my experiences [imdiego.dev/about](https://imdiego.dev/about)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1MSTmrS0dtM1XyCVFsqHxqz7l54MJvnt-AdTgLE2C_6M/edit?usp=sharing)
 
 ## ⚙ My Stack:
 
