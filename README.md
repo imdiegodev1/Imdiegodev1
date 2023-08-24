@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdiegui1&label=Profile%20views&color=0e75b6&style=flat" alt="imdiegui1" /> </p>
 
-[![MasterHead](https://portfoliodiegodev.s3.amazonaws.com/github-header.png)](https://imdiego.dev/)
+<!-- [![MasterHead](https://portfoliodiegodev.s3.amazonaws.com/github-header.png)](https://imdiego.dev/) -->
 
 🐍 Data Engineer and Software Developer oriented to product creations from the back-end and data architecture side. I have always been interested in technology and innovation. I have 5+ years of experience with data and software development. First, I focused my career in data management and data processing with SQL and Python to finally focus on Software Development and Data Engineer using Python and AWS. I consider myself self-taught and technologies such as Cloud computing with AWS, Python and Data allow me to experiment with different products and teams around the world.
 
